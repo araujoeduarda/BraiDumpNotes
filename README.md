@@ -31,5 +31,5 @@ O aplicativo utiliza o Local Storage do navegador para armazenar as notas do usu
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="200" height="150" alt="Javascript" /></a>
 
 # 🌐 **Página do Projeto**
-  <p align="center" >Visite a página do projeto clicando <a href="https://araujoeduarda.github.io/BrainDump-Anotacoes/">aqui</a>.</p>
+  <p align="center" >Visite o projeto clicando <a href="https://araujoeduarda.github.io/BrainDumpNotes/">aqui</a>.</p>
 
